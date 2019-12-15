@@ -2,6 +2,6 @@
 
 ## Contacts
 
-Avramenko Andrey
-a-submariner@yandex.ru
-89517180951
+Avramenko Andrey  
+a-submariner@yandex.ru  
+89517180951  
